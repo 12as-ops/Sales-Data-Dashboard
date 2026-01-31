@@ -1,5 +1,7 @@
 # 🛒 Superstore Sales & Profit Analysis Dashboard
 
+<img width="1279" height="518" alt="image" src="https://github.com/user-attachments/assets/3ea459d7-89e0-4f8b-9faf-4d6f946d5cd1" />
+
 ## 📌 Project Overview
 This project analyzes Superstore retail sales data to uncover insights into sales performance, customer behavior, and regional trends.
 
@@ -53,11 +55,6 @@ An interactive Excel dashboard was built to help track KPIs, monitor monthly tre
 
 ## 💼 Business Impact
 Reduced manual reporting and enabled real-time monitoring of sales KPIs, supporting faster data-driven decisions for marketing, inventory, and operations.
-
----
-
-## 📸 Dashboard Preview
-<img width="1279" height="518" alt="image" src="https://github.com/user-attachments/assets/cdf04e2c-ba1f-4d3d-8a25-fe768f490f5c" />
 
 
 ---
