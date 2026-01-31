@@ -79,4 +79,4 @@ Reduced manual reporting and enabled real-time monitoring of sales KPIs, support
 ## 👤 Author
 Ashish Verma  
 Aspiring Data Analyst  
-LinkedIn: (your link)
+[LinkedIn]: (www.linkedin.com/in/ashish-tailor-1b5672306)
